@@ -1,0 +1,16 @@
+{
+  "name": "datetime",
+  "developer": "Cristian Mihai",
+  "version": "0.0.1",
+  "commands": [
+    "cât e ceasul",
+    "în ce dată suntem",
+    "în ce zi suntem"
+  ],
+  "icon": "icon.png",
+  "entry-point": "datetime",
+  "languages": [
+    "en"
+  ],
+  "upstream": "https://github.com/CristianEduardMihai/romanian-karen-datetime"
+}
