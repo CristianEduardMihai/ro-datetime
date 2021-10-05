@@ -11,5 +11,5 @@ This is the romanian version of [AlfredoSequeida/datetime](https://github.com/Al
 ### installation
 This add-on can be installed via Karen's add-on manager
 ```
-python3 addon_manager.py --install https://github.com/CristianEduardMihai/romanian-karen-datetime
+python3 addon_manager.py --install https://github.com/CristianEduardMihai/ro-datetime
 ```
